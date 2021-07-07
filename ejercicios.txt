@@ -1,0 +1,25 @@
+##### EJERCICIO SQL #####
+# Aún no estoy interiorizado con este lenguaje en particular.
+Select Count carrier, carrier b, carrier c, costo, zona From carrier and costos(*)       
+
+
+
+
+# Lectura y comprensión Script básico grails. A tu entender, que se busca obtener como output del script?
+
+#RESPUESTA: Se busca obtener un listado de sucursales ordenadas por fecha y descripción.
+
+
+
+
+#Script básico bash
+# A tu entender, que se busca obtener como output del script? Podrías detallar que se hace en cada línea del script?
+#Cuántas líneas se imprimen como output?
+
+#RESPUESTA:
+# 1-  Se busca obtener el listado de usuarios de ML y sus preferencias de compras.
+
+# 2-  Linea N2: Se define una variable.
+#     Linea N3: Se utiliza un ciclo repetitivo "FOR".
+
+# 3-  Se imprimen 6 lineas como output.
